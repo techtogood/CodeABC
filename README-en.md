@@ -1,7 +1,7 @@
 
 
 ## codeABC
-codeABC is a children's programming enlightenment project, including 6 programming topics, each topic includes 30 levels. Written in typescript, based on the Phaser game engine (https://github.com/photonstorm/phaser), a good front-end learning project. Currently, opensource topic one resource，if stars over 1k,opensource all topics'.
+codeABC is a children's programming enlightenment project, including 6 programming topics, each topic includes over 20 levels. Written in typescript, based on the Phaser game engine (https://github.com/photonstorm/phaser), a good front-end learning project. Currently, opensource topic one resource，if stars over 1k,opensource all topics'.
    
 ### Demo：
 [ffmagic.com/code](https://www.ffmagic.com/code)
@@ -49,4 +49,8 @@ package
 ```shell
 yarn build
 ```
+
+### Our Wechat offical account:
+![codeABC](docs/wechat_official_account.jpg)
+
 
