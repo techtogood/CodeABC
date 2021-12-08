@@ -1,6 +1,14 @@
 
 
 ## codeABC
+codeABC is a children's programming enlightenment project, including 6 programming topics, each topic includes 30 levels. Written in typescript, based on the Phaser game engine (https://github.com/photonstorm/phaser), a good front-end learning project. Currently, opensource topic one resource，if stars over 1k,opensource all topics'.
+   
+### Demo：
+[ffmagic.com/code](https://www.ffmagic.com/code)
+
+### example
+![codeABC](docs/screen_1.gif)
+![codeABC](docs/screen_2.gif)
 
 ### Technology Stack
 
@@ -18,21 +26,25 @@
 
 ### get start
 
-gti clone 
+download code:
 
-安装依赖
+```shell
+https://github.com/techtogood/CodeABC.git
+cd CodeABC
+```
+Installation dependencies
 
 ```shell
 yarn
 ```
 
-运行项目
+run 
 
 ```shell
 yarn dev
 ```
 
-打包项目
+package
 
 ```shell
 yarn build
