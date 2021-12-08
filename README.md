@@ -2,7 +2,7 @@
 Translations: [简体中文](README.md) | [English](README-en.md) 
 
 ## codeABC
-codeABC是一个少儿编程启蒙项目，包括6个编程主题，每个主题包括30个关卡。typescript编写，基于Phaser游戏引擎（https://github.com/photonstorm/phaser） ,不错的前端学习项目。
+codeABC是一个少儿编程启蒙项目，包括6个编程主题，每个主题包括超过20个关卡。typescript编写，基于Phaser游戏引擎（https://github.com/photonstorm/phaser） ,不错的前端学习项目。目前开放了第一个主体的资源，如项目stars超过1k,将开发全部资源。
    
 ### 体验：
 [ffmagic.com/code](https://www.ffmagic.com/code)
@@ -47,4 +47,7 @@ yarn dev
 ```shell
 yarn build
 ```
+
+### 微信公众号
+![CodeABC](docs/wechat_official_account.jpg)
 
