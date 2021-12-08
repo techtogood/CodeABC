@@ -1,0 +1,15 @@
+{
+  "anims": [
+    {
+      "key": "yummyDazeFailAnim",
+      "frames": {
+        "typeOfGeneration": "generateFrameNumbers",
+        "key": "yummyDazeFail",
+        "start": 0,
+        "end": 9
+      },
+      "repeat": 0,
+      "frameRate": 24
+    }
+  ]
+}

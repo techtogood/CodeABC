@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    // "target": "ES6",
+    // "module": "CommonJS",
+    // "sourceMap": true,
+    "noImplicitAny": false,
+    "strict": false,
+    "experimentalDecorators": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "jsx": "react",
+    "esModuleInterop": true,
+    // "sourceMap": true,
+    // "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "types": [
+      "node",
+      "webpack-env",
+      "vite/client"
+    ],
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "strategy/**/*",
+    "typings.d.ts",
+    "typings/**/*"
+  ]
+}

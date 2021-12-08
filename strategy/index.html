@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, minimum-scale=1,maximum-scale=1, initial-scale=1.0"
+    />
+    <title>关卡攻略</title>
+    <script type="module" src="./index.ts"></script>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+      }
+      #container {
+        height: 100vh;
+        width: auto;
+        scroll-behavior: smooth;
+        /* overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        scroll-snap-type: y mandatory;
+        scroll-padding: 20px; */
+      }
+      .content {
+        height: calc(100vh - 2vh);
+        text-align: center;
+        /* scroll-snap-align: center;
+        scroll-snap-stop: always; */
+        padding: 1vh 0;
+      }
+      h2 {
+        line-height: 1;
+        font-size: 24px;
+        margin: 0;
+        padding: 20px 0 16px;
+      }
+      h2 span {
+        margin-left: 10px;
+        font-size: 14px;
+        color: #999;
+        vertical-align: baseline;
+      }
+
+      .content img {
+        max-height: calc(100vh - 80px);
+        max-width: 100%;
+      }
+      /* 目录 */
+      #directory{
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        overflow: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <aside id="directory"></aside>
+    <main id="container"></main>
+  </body>
+</html>
