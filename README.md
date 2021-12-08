@@ -1,8 +1,18 @@
 
+Translations: [简体中文](README.md) | [English](README-en.md) 
 
-## 橙狮编程
+## codeABC
+codeABC是一个少儿编程启蒙项目，包括6个编程主题，每个主题包括30个关卡。typescript编写，基于Phaser游戏引擎（https://github.com/photonstorm/phaser） ,不错的前端学习项目。
+   
+### 体验：
+[ffmagic.com/codeABC](https://www.ffmagic.com/code)
 
-### 技术选型
+### 示例
+![codeABC](docs/screen_1.gif)
+![codeABC](docs/screen_2.gif)
+
+
+### 技术栈
 
 | 技术       | 说明                 | 相关文档                                |
 | ---------- | -------------------- | --------------------------------------- |
