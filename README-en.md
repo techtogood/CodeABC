@@ -1,24 +1,24 @@
 
 
-## 橙狮编程
+## codeABC
 
-### 技术选型
+### Technology Stack
 
-| 技术       | 说明                 | 相关文档                                |
-| ---------- | -------------------- | --------------------------------------- |
-| Phaser 3   | h5游戏框架           | http://phaser.io/phaser3                |
-| typescript | JavaScript的严格超集 | https://www.typescriptlang.org/         |
-| webpack    | 前端打包工具         | https://webpack.docschina.org/concepts/ |
+| Technology | remark                       | docs                                |
+| ---------- | ---------------------------- | --------------------------------------- |
+| Phaser 3   | h5 Game engine               | http://phaser.io/phaser3                |
+| typescript | Strict superset of JavaScript| https://www.typescriptlang.org/         |
+| webpack    |  packaging tool              | https://webpack.docschina.org/concepts/ |
 
-### 运行环境
+### runtime
 
-| 环境    | 版本   |
-| ------- | ------ |
-| node.js | 14.6.0 |
+| environment    |version   |
+| -------------- | ------ |
+| node.js        | 14.6.0 |
 
-### 安装与启动
+### get start
 
-项目根目录下打开命令行工具
+gti clone 
 
 安装依赖
 
