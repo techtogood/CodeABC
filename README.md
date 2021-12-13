@@ -48,6 +48,3 @@ yarn dev
 yarn build
 ```
 
-### 微信公众号，欢迎关注
-![CodeABC](docs/wechat_official_account.jpg)
-
