@@ -50,7 +50,5 @@ package
 yarn build
 ```
 
-### Our Wechat offical account:
-![codeABC](docs/wechat_official_account.jpg)
 
 
